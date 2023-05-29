@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ElkGq9uAc9kRxAFfaRrKsU33T8L+ohQaQWMsY/h/dAg=",
+  "Source": "MilkIt.Api",
+  "BasePath": "_content/MilkIt.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilkIt.Api", "MilkIt.Api\MilkIt.Api.csproj", "{DA4399ED-68AD-44CA-9083-7AF7C7F6F2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilkIt.Tests", "MilkIt.Tests\MilkIt.Tests.csproj", "{56054291-BB46-4942-BD1A-32AB5F78F645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4399ED-68AD-44CA-9083-7AF7C7F6F2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4399ED-68AD-44CA-9083-7AF7C7F6F2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4399ED-68AD-44CA-9083-7AF7C7F6F2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4399ED-68AD-44CA-9083-7AF7C7F6F2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56054291-BB46-4942-BD1A-32AB5F78F645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56054291-BB46-4942-BD1A-32AB5F78F645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56054291-BB46-4942-BD1A-32AB5F78F645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56054291-BB46-4942-BD1A-32AB5F78F645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
