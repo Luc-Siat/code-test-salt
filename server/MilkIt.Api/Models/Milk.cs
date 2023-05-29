@@ -7,7 +7,7 @@ namespace MilkIt.Api.Models
 {
     public class Milk
     {
-        public required int Id {get; set; }
+        public required int MilkId {get; set; }
         public required string Name {get; set; }
         public required string Type {get; set; }
         public required int Storage {get; set; }
